@@ -1,1 +1,1 @@
-This is from readme.txt from master branch
+This is from readme.txt from develop branch
